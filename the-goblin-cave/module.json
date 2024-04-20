@@ -1,0 +1,37 @@
+{
+  "id": "the-goblin-cave",
+  "title": "The Goblin Cave",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "The Goblin Cave is the first in a series of location-based adventures called Becoming Heroes, where adventurers band together to resist a hobgoblin warlord from decimating their home. This adventure is designed for 1st-level characters and sees them answering the call to rescue captives held in a nearby cave. As they explore the dark caverns, they will come across deadly traps and nefarious goblins. In the depths below, a Hobgoblin Tormentor viciously extracts information from the villagers about the village’s defenses. If she is not defeated, she will return to her hideout with important knowledge: weaknesses that will spell the doom of the captives’ home.",
+  "authors": [
+    {
+      "name": "Drake Rupple"
+    }
+  ],
+  "packs": [
+    {
+      "name": "the-goblin-cave",
+      "label": "The Goblin Cave",
+      "path": "packs/the-goblin-cave",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
